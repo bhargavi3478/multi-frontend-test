@@ -1,1 +1,7 @@
-
+{
+  "name": "multi-frontend-test",
+  "private": true,
+  "workspaces": [
+    "apps/*"
+  ]
+}
